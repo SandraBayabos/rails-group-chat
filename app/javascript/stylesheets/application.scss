@@ -1,7 +1,6 @@
 @import 'toastr';
 @import 'bootstrap/scss/bootstrap';
 
-#toast-container > .toast-info {
-  background-color: #0097ba;
-  color: black;
+#toast-container > .toast-error {
+  color: black !important;
 }
